@@ -1,0 +1,105 @@
+﻿##        #######   ######     ###    ##       ####  ######     ###    ######## ####  #######  ##    ##
+##       ##     ## ##    ##   ## ##   ##        ##  ##    ##   ## ##      ##     ##  ##     ## ###   ##
+##       ##     ## ##        ##   ##  ##        ##  ##        ##   ##     ##     ##  ##     ## ####  ##
+##       ##     ## ##       ##     ## ##        ##   ######  ##     ##    ##     ##  ##     ## ## ## ##
+##       ##     ## ##       ######### ##        ##        ## #########    ##     ##  ##     ## ##  ####
+##       ##     ## ##    ## ##     ## ##        ##  ##    ## ##     ##    ##     ##  ##     ## ##   ###
+########  #######   ######  ##     ## ######## ####  ######  ##     ##    ##    ####  #######  ##    ##
+
+
+########   ##    ##     ########  #######   ##    ##    ###    ######## ##     ##    ###     ##    ##
+##     ##   ##  ##         ##    ##     ##  ###   ##   ## ##      ##    ##     ##   ## ##    ###   ##
+##     ##    ####          ##    ##     ##  ####  ##  ##   ##     ##    ##     ##  ##   ##   ####  ##
+########      ##           ##    ##     ##  ## ## ## ##     ##    ##    ######### ##     ##  ## ## ##
+##     ##     ##     ##    ##    ##     ##  ##  #### #########    ##    ##     ## #########  ##  ####
+##     ##     ##      ##  ##     ##     ##  ##   ### ##     ##    ##    ##     ## ##     ##  ##   ###
+########      ##       ####       #######   ##    ## ##     ##    ##    ##     ## ##     ##  ##    ## 
+
+
+l_default:
+ NAME_SOFE_LIGHT: "Свет Звезды"
+ NAME_ORIGIN_ESCORT: "Храбрость"
+ NAME_ORIGIN_BATTLECRUISER: "Стойкий"
+ NAME_ORIGIN_TITAN: "Добродетель"
+ NAME_ORIGIN_GOLIATH: "Звездный"
+ NAME_ORIGIN_DEFENDER: "Солнечный"
+ NAME_ORIGIN_DREADNOUGHT: "Гелиос"
+ NAME_ORIGIN_CARRIER: "Наследие"
+ ORIGIN_GAIA_MAIN: "Ковчег Лесо'иаса"
+ ORIGIN_GAIA_SECOND: "Ковчег Вааму"
+ NAME_ORIGIN_TOWER: "Истребитель"
+ NAME_AUSCHWITZ: "Судья"
+ 
+ NAME_ORIGIN_CITADEL: "Великий Наблюдатель"
+ NAME_OE_Super_Starbase_Playable: "Бастион света"
+
+ NAME_PROGENITOR_ESCORT: "Охотник"
+ NAME_PROGENITOR_BATTLECRUISER: "Звездорожденный"
+ NAME_PROGENITOR_TITAN: "Старлифтер"
+ NAME_PROGENITOR_AVATAR: "Мемориал Арьи"
+
+ NAME_Origin_Colossus_Fleet: "Хранители знаний"
+ NAME_Origin_Fleet: "Основной ударный флот"
+ NAME_Origin_Fleet_Arkship: "Рука, которая тянется"
+ NAME_Origin_Fleet_Large: "Ударный флот Почетной стражи"
+ NAME_Origin_Fleet_Scout: "Быстрый разведывательный флот"
+ NAME_Origin_Fleet_Garrison_Home: "Оборонительный флот Почетной стражи"
+ NAME_Origin_Fleet_Garrison: "Флот Стражей"
+ NAME_Origin_Auxiliary_Fleet: "Вспомогательный флот Пена'рох"
+ NAME_ORIGINAL: "Стелл'дорей"
+ NAME_ORIGINAL_PLURAL: "Стелл'дорей"
+ NAME_ORIGINAL_EMPIRE: "Звездорожденные"
+ NAME_PROGENITOR_SENTINEL: "Узревший истину"
+ NAME_OE_Starbase: "Звездный наблюдатель"
+ NAME_OE_Super_Starbase: "Святой комплекс"
+ NAME_GOLDEN_ARMADA: "Золотая армада"
+ NAME_NEW_COLOSSUS: "Последнее слово"
+
+ NAME_SOFE_LOREKEEPER: "Хранитель знаний"
+
+
+ leader_the_executor: "Исполнитель"
+ leader_oe_king: "Организатор"
+ leader_the_commander: "Воин"
+
+
+NAME_WARDEN_MATERIALIST: "Гидатос"
+NAME_WARDEN_XENOPHOBE: "Туборек"
+NAME_WARDEN_XENOPHILE: "Гранди"
+NAME_WARDEN_SPIRITUALIST: "Вариан"
+NAME_WARDEN_STELLAR: "Архимонд "
+NAME_GATEKEEPER_WARDEN_FLEET: "Привратник-Надзиратель"
+NAME_GATEKEEPER_WARDEN_FLEET_ANCIENT: "Древний Привратник-Надзиратель"
+NAME_GATEKEEPER_WARDEN: "Внешние Привратники"
+
+
+gatekeeper_control_node: "Проводник энергии Привратника"
+
+NAME_Frontier_Egress: "Новая граница"
+NAME_Outer_EgressA: "Завет"
+NAME_Outer_EgressB: "Рнгесос Глореби"
+NAME_Outer_EgressC: "Кагане Мединус"
+NAME_Outer_EgressD: "Барриес Ло Биль"
+NAME_The_Heart: "Бастион света"
+
+NAME_Outer_Home_Fortress: "Вызов судьбы"
+NAME_Planet_Outer_Home_Fortress: "Сердце доблести"
+
+
+NAME_Planet_CapitalA: "Бастион вечности"
+NAME_Planet_CapitalB: "Бастион спокойствия"
+NAME_Planet_CapitalC: "Бастион бесконечности"
+NAME_Planet_CapitalD: "Бастион судьбы"
+NAME_Planet_CapitalE: "Бастион гармонии"
+NAME_Planet_CapitalF: "Бастион жизненной силы"
+NAME_Planet_CapitalG: "Бастион победы"
+NAME_Planet_CapitalH: "Бастион стабильности"
+NAME_Planet_WardenA: "Оберег силы"
+NAME_Planet_WardenB: "Оберег надежды"
+NAME_Planet_WardenC: "Оберег мудрости"
+NAME_Planet_WardenD: "Оберег единства"
+
+NAME_The_Great_Veil: "Великая вуаль"
+NAME_The_Lorekeeper: "Домен хранителя знаний"
+
+NAME_OE_CARETAKER: "Звездный Смотритель"
